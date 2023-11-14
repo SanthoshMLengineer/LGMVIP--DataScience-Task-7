@@ -13,7 +13,6 @@ The mainly divided into three parts
 1. Image preprocessing:
            1. We resized the image into (28,28).And image is scaled so that model performs well on scaled data.
 2. Model building and Evaluation:
-   
            1. In this we will split dataset into two parts training and testing sets.
            2. We used  CNN model and hyperparameter tuning for batchsize, optimizer.
 4. Deployment using Flask
