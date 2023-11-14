@@ -5,7 +5,7 @@ Develop a system that recognition that capable of accurately classifying handwri
 
 ## Dataset Information
 The dataset was taken from Kaggle, This dataset is in the form of csv file contains images for each digit starting from 0 to 9. 
-Each row represents one image and 784  values.. 
+Each row has 785 values 1 for label and 784 values represents one image. 
 
 
 ## Technical Details
